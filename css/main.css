@@ -1,1 +1,53 @@
-<li rel=
+body
+{
+    font-family: monospace;
+    text-align: center;
+}
+.bg
+{
+    width: 1000px;
+    height:600px;
+    background:  url("../images/butterfly-wallpaper.jpeg");
+    background-size: cover;
+}
+.plan
+{
+    display: inline-block;
+    margin-left: 20px;
+    background: rgba(40, 122, 159, 0.76);
+    width: 250px;
+    height: 450px;
+}
+.gray-bg
+{
+    background: rgba(32, 49, 96, 0.64);
+    height: 200px;
+    color: white;
+    font-size: 18px;
+    padding-top: 30px;
+}
+.item
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+.tri-plan
+{
+    padding-top: 80px;
+    padding-right: 20px;
+}
+i
+{
+    color: darkgray;
+    margin-top: 2em;
+}
+.botton
+{
+    font-size: 15px;
+    padding: 0.5em;
+    border:1px solid white;
+    width: 160px;
+    margin: 20px auto;
+    border-radius: 2px;
+}
